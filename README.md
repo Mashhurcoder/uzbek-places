@@ -1,7 +1,7 @@
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/8d7e0758-a5ea-453b-8f30-8b60d3951d25" />
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/08f43c44-532e-4121-9ecc-f9972a67fbae" />
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/f2950f79-e249-433e-90c3-d0f6581f99b6" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/8d7e0758-a5ea-453b-8f30-8b60d3951d25" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/08f43c44-532e-4121-9ecc-f9972a67fbae" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/f2950f79-e249-433e-90c3-d0f6581f99b6" />
 
 
 # 📍 Uzbek Places App - Flutter (MVVM Architecture)
